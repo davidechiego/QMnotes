@@ -10,5 +10,5 @@ Davide Chiego,
 Alessandro Gori,
 Marco Pompili
 
-Last but not least, we thank all our lecturers, Prof. Ettore Vicari and Prof. Vincenzo Alba, for their work and inspiration.
+Last but not least, we all thank our lecturers Prof. Ettore Vicari and Prof. Vincenzo Alba, for their work and inspiration.
 
